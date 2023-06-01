@@ -9,17 +9,19 @@
 </div>
 
 ---
-
+<h3>
 ### :man_technologist: About Me :
+</h3>
 I am a CSE undergrad <img src="https://tenor.com/bd30e.gif" width="30"> at National Institute of Technology Rourkela.
 
-- :man_mechanic: I started off my technical journey by learning python <img src="https://media2.giphy.com/media/gG9fVWJdN41NeiHhzk/200.gif?cid=790b7611t5cphrouf232yq5c7nwchspgizdx3y16obgauhzr&rid=200.gif&ct=g" width="30"> and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap. Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science <img src="https://38.media.tumblr.com/35c196df28099f875aab3aabfa300778/tumblr_nd9qb7c3Q51twuv7fo1_500.gif" width="30">.I then started to work on machine learning projects and understanding the power of data.
+- :man_mechanic: I started off my technical journey by learning python <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="30"> and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.<img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="30">  Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science <img src="https://orig00.deviantart.net/ff36/f/2009/240/a/6/matrix_gif_by_sasukekun12799.gif" width="30">.I then started to work on machine learning projects and understanding the power of data.
 
-- :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.<img src="https://tenor.com/bHLKs.gif" width="30">
+- :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.
+<img src="https://tenor.com/bHLKs.gif" width="30">
 
 - :man_astronaut: In my free time, I try not to stress about what all I need to do.
 
-- :male_detective: Connect w Me: [![Linkedin Badge](https://img.shields.io/badge/-cyrus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-tikoo-0a9933202/)
+- :male_detective: Connect w Me: [![Linkedin Badge](https://img.shields.io/badge/-shivtikoo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-tikoo-0a9933202/)
 
 ---
 
