@@ -9,15 +9,14 @@
 </div>
 
 ---
-<h3>
+
 ### :man_technologist: About Me :
-</h3>
 I am a CSE undergrad <img src="https://tenor.com/bd30e.gif" width="30"> at National Institute of Technology Rourkela.
 
-- :man_mechanic: I started off my technical journey by learning python <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="30"> and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.<img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="30">  Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science <img src="https://orig00.deviantart.net/ff36/f/2009/240/a/6/matrix_gif_by_sasukekun12799.gif" width="30">.I then started to work on machine learning projects and understanding the power of data.
+- :man_mechanic: I started off my technical journey by learning python <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="60"> and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.<img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="60">  Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science <img src="https://barkpost.com/wp-content/uploads/2015/07/dogsweatercomputergiphy.gif" width="60">.I then started to work on machine learning projects and understanding the power of data.
 
 - :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.
-<img src="https://tenor.com/bHLKs.gif" width="30">
+<img src="https://tenor.com/bHLKs.gif" width="60">
 
 - :man_astronaut: In my free time, I try not to stress about what all I need to do.
 
@@ -40,6 +39,4 @@ I am a CSE undergrad <img src="https://tenor.com/bd30e.gif" width="30"> at Natio
 ---
 
 ### 🗂️: My Stats :
-![Profile Views](https://[YourEndpoint].m.pipedream.net)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivtikoo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
