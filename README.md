@@ -11,12 +11,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a CSE undergrad <img src="https://tenor.com/bd30e.gif" width="30"> at National Institute of Technology Rourkela.
+I am a CSE undergrad <img src="https://media1.tenor.com/images/c43ff8f864d7c6568f762a66fe8cfb5c/tenor.gif?itemid=15705968" width="80"> at National Institute of Technology Rourkela.
 
-- :man_mechanic: I started off my technical journey by learning python <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="60"> and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.<img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="60">  Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science <img src="https://barkpost.com/wp-content/uploads/2015/07/dogsweatercomputergiphy.gif" width="60">.I then started to work on machine learning projects and understanding the power of data.
+- :man_mechanic: I started off my technical journey by learning python <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="80"> 
+and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.<img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="80">  
+Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science <img src="https://barkpost.com/wp-content/uploads/2015/07/dogsweatercomputergiphy.gif" width="80">.
+Now, work on machine learning projects and understanding the power of data.
 
-- :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.
-<img src="https://tenor.com/bHLKs.gif" width="60">
+- :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.<img src="https://hugelolcdn.com/i/28226.gif" width="80">
 
 - :man_astronaut: In my free time, I try not to stress about what all I need to do.
 
