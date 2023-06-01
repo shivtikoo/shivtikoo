@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif" width="250"/>
   
   
-  <h1>
-  forever is made up of nows
+  <h3>
+  FOREVER is made up of NOWS
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhNzFmZjM2YWUyMTZhODI2MTMyNzZmNzk3NTQ5YzEyMmMzNjk2NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hp3dmEypS0FaoyzWLR/giphy.gif" width="30"/>
-</h1>
+</h3>
 </div>
 
 ---
