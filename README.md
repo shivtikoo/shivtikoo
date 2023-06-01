@@ -11,25 +11,27 @@
 ---
 
 ### :man_technologist: About Me :
+I am a CSE undergrad at National Institute of Technology Rourkela.
 
 <div id="header" align="center">
-  I am a CSE undergrad at National Institute of Technology Rourkela.
-  <img src="https://media1.tenor.com/images/c43ff8f864d7c6568f762a66fe8cfb5c/tenor.gif?itemid=15705968" width="150"/>
+  <img src="https://media1.tenor.com/images/c43ff8f864d7c6568f762a66fe8cfb5c/tenor.gif?itemid=15705968" width="100"/>
  </div>
 
-- :man_mechanic: I started off my technical journey by learning python <img src="" width="80"> 
+- :man_mechanic: I started off my technical journey by learning python
 <div id="header" align="center">
-  <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="100"/>
+  <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="200"/>
  </div>
-and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.<img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="80">  
-Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science.
-Now, work on machine learning projects and understanding the power of data.
+Then I hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.
+<div id="header" align="center">
+  <img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="200"/>
+ </div>
+Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science.So, I started working on machine learning projects and understanding the power of data.
 
 
 - :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.
-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif" width="250"/>
- </div><img src="https://hugelolcdn.com/i/28226.gif" width="80">
+<div id="header" align="center">
+  <img src="https://hugelolcdn.com/i/28226.gif" width="250"/>
+ </div>
 
 - :man_astronaut: In my free time, I try not to stress about what all I need to do.
 
