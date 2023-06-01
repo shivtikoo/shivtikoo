@@ -11,14 +11,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am a CSE undergrad at National Institute of Technology Rourkela.
+
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/images/c43ff8f864d7c6568f762a66fe8cfb5c/tenor.gif?itemid=15705968" width="250"/>
+  I am a CSE undergrad at National Institute of Technology Rourkela.
+  <img src="https://media1.tenor.com/images/c43ff8f864d7c6568f762a66fe8cfb5c/tenor.gif?itemid=15705968" width="150"/>
  </div>
 
-- :man_mechanic: I started off my technical journey by learning python <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="80"> 
+- :man_mechanic: I started off my technical journey by learning python <img src="" width="80"> 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif" width="250"/>
+  <img src="https://th.bing.com/th/id/OIP.SOGvwfvcj6ntOoq167BLkQHaEl?pid=ImgDet&rs=1" width="100"/>
  </div>
 and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.<img src="https://cdn-images-1.medium.com/max/800/1*qdFdhbR00beEaIKDI_WDCw.gif" width="80">  
 Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science.
