@@ -3,22 +3,23 @@
   
   
   <h3>
-  FOREVER is made up of NOWS
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhNzFmZjM2YWUyMTZhODI2MTMyNzZmNzk3NTQ5YzEyMmMzNjk2NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hp3dmEypS0FaoyzWLR/giphy.gif" width="30"/>
+  forever is made up of nows
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhNzFmZjM2YWUyMTZhODI2MTMyNzZmNzk3NTQ5YzEyMmMzNjk2NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hp3dmEypS0FaoyzWLR/giphy.gif" width="25"/>
 </h3>
 </div>
 
 ---
 
-### :man_technologist: Little about Me :
-I am a CSE undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
-- :man_mechanic: I develop full-stack websites.
+### :man_technologist: About Me :
+I am a CSE undergrad <img src="https://tenor.com/bd30e.gif" width="30"> at National Institute of Technology Rourkela.
 
-- :man_scientist: Exploring web3 and blockchain technology.
+- :man_mechanic: I started off my technical journey by learning python <img src="https://media2.giphy.com/media/gG9fVWJdN41NeiHhzk/200.gif?cid=790b7611t5cphrouf232yq5c7nwchspgizdx3y16obgauhzr&rid=200.gif&ct=g" width="30"> and then hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap. Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science <img src="https://38.media.tumblr.com/35c196df28099f875aab3aabfa300778/tumblr_nd9qb7c3Q51twuv7fo1_500.gif" width="30">.I then started to work on machine learning projects and understanding the power of data.
 
-- :man_astronaut: In my free time, I solve problems on GeeksforGeeks and drink tea.
+- :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.<img src="https://tenor.com/bHLKs.gif" width="30">
 
-- :male_detective: Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-cyrus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cyrus-roy-b9b389193/)
+- :man_astronaut: In my free time, I try not to stress about what all I need to do.
+
+- :male_detective: Connect w Me: [![Linkedin Badge](https://img.shields.io/badge/-cyrus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-tikoo-0a9933202/)
 
 ---
 
@@ -26,19 +27,17 @@ I am a CSE undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
-### :fire: My Stats :
+### 🗂️: My Stats :
+![Profile Views](https://[YourEndpoint].m.pipedream.net)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrusroy001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivtikoo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
