@@ -13,7 +13,7 @@
 ### :man_technologist: About Me :
 I am a CSE undergrad <img src="https://i.pinimg.com/originals/aa/27/62/aa2762f2783a3026e13e4a888814fe21.gif" width="30"/> at National Institute of Technology Rourkela.  
 
-- :man_mechanic: I started off my technical journey by learning python. Then I hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science.So, I started working on machine learning projects and understanding the power of data.
+- :man_mechanic: I started off my technical journey by learning python. Then I hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science.So, I started working on machine learning projects and understanding the power of data. I am currently working in the field of MLOps.
 
 - :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.   <img src="https://hugelolcdn.com/i/28226.gif" width="80"/>
 
