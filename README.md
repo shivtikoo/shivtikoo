@@ -15,7 +15,7 @@ I am a CSE undergrad <img src="https://i.pinimg.com/originals/aa/27/62/aa2762f27
 
 - :man_mechanic: I started off my technical journey by learning python. Then I hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science.So, I started working on machine learning projects and understanding the power of data. I am currently working in the field of MLOps.
 
-- :man_scientist: Currently am working on my DSA skills in CPP & projects using SQL.   <img src="https://hugelolcdn.com/i/28226.gif" width="80"/>
+- :man_scientist: Currently am working on my problem solving skills in CPP & projects using SQL.   <img src="https://hugelolcdn.com/i/28226.gif" width="80"/>
 
 
 - :man_astronaut: In my free time, I try not to stress about what all I need to do.
