@@ -10,7 +10,7 @@
 
 ---
 
-### About Me :
+### About Me:
 I am a CSE undergrad <img src="https://i.pinimg.com/originals/aa/27/62/aa2762f2783a3026e13e4a888814fe21.gif" width="30"/> at National Institute of Technology Rourkela.  
 
 - :man_mechanic: I started off my technical journey by learning python. Then I hopped into the domain of WebD; I developed my portfolio using HTML, CSS & Bootstrap.Skip to me getting an internship opportunity as a Strategy Analyst and that enabled me to jump into the field of Data Science.So, I started working on machine learning projects and understanding the power of data. I am currently working in the field of MLOps.
@@ -20,7 +20,7 @@ I am a CSE undergrad <img src="https://i.pinimg.com/originals/aa/27/62/aa2762f27
 
 - :man_astronaut: In my free time, I try not to stress about what all I need to do.
 
-- :male_detective: Connect w Me: [![Linkedin Badge](https://img.shields.io/badge/-shivtikoo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-tikoo-0a9933202/)
+- Connect w Me: [![Linkedin Badge](https://img.shields.io/badge/-shivtikoo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-tikoo-0a9933202/)
 
 ---
 
