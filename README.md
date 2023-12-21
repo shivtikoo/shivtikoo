@@ -11,13 +11,13 @@
 ---
 
 ### About Me:
-I am a CSE undergrad <img src="https://i.pinimg.com/originals/aa/27/62/aa2762f2783a3026e13e4a888814fe21.gif" width="30"/> at National Institute of Technology Rourkela, who is currentluy a transfer student at IIT Hyderabad.  
+I am a CSE undergrad <img src="https://i.pinimg.com/originals/aa/27/62/aa2762f2783a3026e13e4a888814fe21.gif" width="30"/> at National Institute of Technology Rourkela, who is currentluy a transfer student at Indian Institute of Technology, Hyderabad.  
 
 🛠️ Beginning my technical journey with Python, I swiftly ventured into the world of Web Development—crafting my portfolio using HTML, CSS, and Bootstrap. The pivotal moment arrived when I seized an internship as a Strategy Analyst, propelling me into the realm of Data Science. This transition ignited my passion for machine learning projects and revealed the transformative potential of data.
 
 🔬 Presently, I am honing my problem-solving prowess in CPP while delving deep into research within the realm of Machine Learning, with a keen focus on Causal Inference.
 
-  <img src="https://hugelolcdn.com/i/28226.gif" width="80"/>
+  <img src="https://hugelolcdn.com/i/28226.gif" width="150"/>
 
 
 - :man_astronaut: In my free time, I try not to stress about what all I need to do.
