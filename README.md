@@ -70,12 +70,15 @@ But innovation knows no bounds, and I find myself drawn to the forefront of cutt
 
 The realm of artificial intelligence beckons with its promise of transformation and innovation. It's a realm where boundaries blur and imagination knows no limits. The surge in AI advancements fills me with a profound sense of purpose, as I see an opportunity not just to witness history but to actively shape it. It's a pivotal moment for humanity, a turning point that holds the promise of a brighter, more connected future. As I contemplate the possibilities that lie ahead, I am filled with a sense of purpose and determination. The opportunity to contribute to this seismic shift in the technological landscape is both humbling and exhilarating. It's a chance to be part of something bigger than myself, to leave a lasting impact on the world around me.
 
-As the sun sets on one chapter, it heralds the dawn of a new beginning. I stand poised at the threshold, ready to embrace the unknown with open arms. So, as the journey unfolds, I eagerly await the challenges and triumphs that lie ahead, knowing that with each new day comes the opportunity to make a difference, to leave a mark, and to shape the future of AI and beyond.I am here for the ride....  <img src="https://hugelolcdn.com/i/28226.gif" width="150"/>
+As the sun sets on one chapter, it heralds the dawn of a new beginning. I stand poised at the threshold, ready to embrace the unknown with open arms. So, as the journey unfolds, I eagerly await the challenges and triumphs that lie ahead, knowing that with each new day comes the opportunity to make a difference, to leave a mark, and to shape the future of AI and beyond.I am here for the ride....  <div style="text-align: center;">
+    <img src="https://hugelolcdn.com/i/28226.gif" width="150"/>
+</div>
+
 
 
 
 #### Date
-25 March, 2024
+April, 2024
 
 - Connect w Me: [![Linkedin Badge](https://img.shields.io/badge/-shivtikoo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-tikoo-0a9933202/)
 
